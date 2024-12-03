@@ -74,7 +74,7 @@ def main():
 	os.system('clear')
 	print(logo)
 	print()
-	cncode=int(input(f'{G}[{Y}+{G}]{M} Enter Country Code WithOut "+" eg.91 {C}=> '))
+	cncode=int(input(f'{G}[{Y}+{G}]{M} Enter Country Code WithOut "+" eg.263 {C}=> '))
 	print()
 	num=input(f"{G}[{Y}+{G}]{M} Enter the Victim's Phone number\n\n{C}=> {cncode}  ")
 	print()
